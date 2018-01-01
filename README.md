@@ -19,6 +19,8 @@ $ npm start
 Input Validation
 
 ```
+...
+
 if (!values.CCexpiry|| !/^(0[1-9]|1[0-2])\/?([0-9]{4}|[0-9]{2})$/.test(values.CCexpiry)) {
   errors.CCexpiry = 'Required';
 }
