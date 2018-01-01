@@ -1,5 +1,6 @@
 import React from 'react';
 
+// custom field that changes border based on errors in validate.js
 const customField = ({
   input,
   label,

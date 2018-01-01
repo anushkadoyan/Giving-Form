@@ -42,6 +42,7 @@ const renderFrequencySelector = ({
   </div>
 );
 
+//first page
 const DonationPage = props => {
   const {handleSubmit} = props;
 

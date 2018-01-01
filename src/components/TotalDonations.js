@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 
+// top container of every page
 class TotalDonations extends Component {
   render() {
     return (

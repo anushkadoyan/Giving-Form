@@ -3,7 +3,9 @@ import { Field, reduxForm } from 'redux-form';
 import customField from './customField';
 import validate from '../workers/validate';
 
-const StepTwo = props => {
+
+// second page
+const PersonalPage = props => {
   const { handleSubmit, previousPage } = props;
   return (
     <form onSubmit={handleSubmit}>
@@ -110,4 +112,4 @@ export default reduxForm({
   forceUnregisterOnUnmount: true, // <------ unregister fields on unmount
   validate
  
-})(StepTwo);
+})(PersonalPage);
