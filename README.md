@@ -7,5 +7,8 @@ npm install
 npm start
 ```
 
+<img src="https://github.com/anushkadoyan/Giving-Form/blob/master/src/screenshots/first-page.png" width="400">
 
-![](https://github.com/anushkadoyan/Giving-Form/blob/master/src/screenshots/first-page.png)
+
+
+
