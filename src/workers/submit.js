@@ -1,4 +1,6 @@
 import axios from 'axios';
+import {dispatch} from 'react';
+import {reset} from 'redux-form';
 
 export default(async function showResults(values) {
 
@@ -10,6 +12,7 @@ export default(async function showResults(values) {
     .then(function (response) {
       console.log(response);
       alert(response.data);
+      window.location.reload();
     })
     .catch(function (error) {
       console.log(error);
