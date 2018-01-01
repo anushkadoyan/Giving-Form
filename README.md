@@ -8,9 +8,9 @@ Responsive Giving Form using React, Redux Form, Node, and card-react.
 ### To Run
 In the root folder, run these commands:
 ```sh
-npm install
+$ npm install
 
-npm start
+$ npm start
 ```
 
 
