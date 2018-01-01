@@ -6,4 +6,4 @@ npm install
 npm start
 
 
-![alt text](https://github.com/anushkadoyan/Giving-Form/blob/master/src/screenshots/first-page.png | width = 300)
+![alt text](https://github.com/anushkadoyan/Giving-Form/blob/master/src/screenshots/first-page.png =250x250)
